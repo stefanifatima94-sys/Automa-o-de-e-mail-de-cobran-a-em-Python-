@@ -1,0 +1,6 @@
+nome;email;fatura;valor;vencimento;status
+Maria Silva;maria.silva@exemplo.com;NF-1001;1.250,00;01/11/2026;pendente
+João Souza;joao.souza@exemplo.com;NF-1002;480,50;10/11/2026;pendente
+Ana Costa;ana.costa@exemplo.com;NF-1003;2.300,00;12/11/2026;pendente
+Carlos Lima;carlos.lima@exemplo.com;NF-1004;799,90;05/11/2026;pago
+Fernanda Rocha;fernanda.rocha@exemplo.com;NF-1005;150,00;30/11/2026;pendente
